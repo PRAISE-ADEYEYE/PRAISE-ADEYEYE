@@ -1,5 +1,5 @@
 
-### 👋 I'm Praise Adeyeye  
+## 👋 I'm Praise Adeyeye  
 
 🎓 **Mechanical Engineering student at Covenant University**  
 
@@ -100,8 +100,6 @@
 ![Streak](https://streak-stats.demolab.com?user=PRAISE-ADEYEYE&theme=radical&hide_border=true)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PRAISE-ADEYEYE&layout=compact&langs_count=8&theme=radical&hide_border=true)  
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PRAISE-ADEYEYE&theme=react-dark&hide_border=true&area=true)  
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=PRAISE-ADEYEYE&theme=darkhub&margin-w=10&margin-h=10&column=7)
 
